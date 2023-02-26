@@ -1,5 +1,5 @@
 # Welcome to the vvvv community on GitHub
 
-vvvv is a visual live-programming environment for .NET that takes you from rapid prototyping to final production. If you're new to vvvv, check the following:
+vvvv is a visual live-programming environment for .NET that takes you from rapid prototyping to final production. Here is [what people do with vvvv](https://visualprogramming.net/#Showcase). If you're new to vvvv, start here:
 
-<a href="https://thegraybook.vvvv.org">Documentation</a>&emsp;■&emsp;<a href="https://www.youtube.com/vvvvtv42">Tutorials</a>&emsp;■&emsp;<a href="https://visualprogramming.net/#Blog">Blog</a>&emsp;■&emsp;<a href="https://discourse.vvvv.org/">Forum</a>&emsp;■&emsp;<a href="https://matrix.to/#/#vvvv:matrix.org">Chat</a>
+[Documentation](https://thegraybook.vvvv.org)&emsp;■&emsp;[Tutorials](https://www.youtube.com/vvvvtv42)&emsp;■&emsp;[Blog](https://visualprogramming.net/#Blog)&emsp;■&emsp;[Forum](https://discourse.vvvv.org)&emsp;■&emsp;[Chat](https://matrix.to/#/#vvvv:matrix.org)
